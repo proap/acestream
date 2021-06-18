@@ -1,4 +1,3 @@
-<p># acestream</p>
 <h2>OVERVIEW</h2>
 <p>Simple acestream engine, built on Ubuntu 18.04.</p>
 <p>Engine version: 3.1.49</p>
